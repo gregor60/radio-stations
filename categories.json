@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Moje stacje",
+      "type": "github",
+      "url": "https://gregor60.github.io/radio-stations/stations.json"
+    },
+    {
+      "id": 1,
+      "name": "Polskie stacje",
+      "type": "api",
+      "url": "http://de1.api.radio-browser.info/json/stations/search?countrycode=PL&limit=50&hidebroken=true&order=votes"
+    },
+    {
+      "id": 2, 
+      "name": "Rock",
+      "type": "api",
+      "url": "http://de1.api.radio-browser.info/json/stations/search?tag=rock&limit=50&hidebroken=true&order=votes"
+    },
+    {
+      "id": 3,
+      "name": "Jazz",
+      "type": "api", 
+      "url": "http://de1.api.radio-browser.info/json/stations/search?tag=jazz&limit=50&hidebroken=true&order=votes"
+    },
+    {
+      "id": 4,
+      "name": "News",
+      "type": "api",
+      "url": "http://de1.api.radio-browser.info/json/stations/search?tag=news&limit=50&hidebroken=true&order=votes"
+    },
+    {
+      "id": 5,
+      "name": "Classical",
+      "type": "api",
+      "url": "http://de1.api.radio-browser.info/json/stations/search?tag=classical&limit=50&hidebroken=true&order=votes"
+    },
+    {
+      "id": 6,
+      "name": "Dance",
+      "type": "api",
+      "url": "http://de1.api.radio-browser.info/json/stations/search?tag=dance&limit=50&hidebroken=true&order=votes"
+    },
+    {
+      "id": 7,
+      "name": "Pop",
+      "type": "api",
+      "url": "http://de1.api.radio-browser.info/json/stations/search?tag=pop&limit=50&hidebroken=true&order=votes"
+    },
+    {
+      "id": 8,
+      "name": "Awaryjne stacje",
+      "type": "emergency"
+    }
+  ]
+}
