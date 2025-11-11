@@ -1,52 +1,134 @@
+
+/////////////////////////
+{
+  "version": "1.0",
+  "last_update": "2024-01-01",
+  "stations": [
+    {
+      "name": "RMF FM",
+      "url": "http://31.192.216.5:8000/rmffm",
+      "category": "Polskie stacje",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio ZET",
+      "url": "http://radiozet-64.radio.pionier.net.pl:8000/pl/radiozet.mp3",
+      "category": "Polskie stacje",
+      "bitrate": 128
+    },
+    {
+      "name": "TOK FM",
+      "url": "http://pl-play.adtonos.com/tok-fm",
+      "category": "Polskie stacje",
+      "bitrate": 128
+    },
+    {
+      "name": "Polskie Radio",
+      "url": "http://stream3.polskieradio.pl:8904/",
+      "category": "Polskie stacje",
+      "bitrate": 128
+    },
+    {
+      "name": "Eska Rock",
+      "url": "http://ic2.101.ru:8000/a202",
+      "category": "Polskie stacje",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Italo4you",
+      "url": "https://ssl-1.radiohost.pl:8018/stream",
+      "category": "Muzyka",
+      "bitrate": 256
+    },
+    {
+      "name": "RMF Classic",
+      "url": "http://31.192.216.5:8000/rmfclassic",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Złote Przeboje",
+      "url": "http://zloteprzeboje.stream.rcs.revma.com/1yyhg62ke9quv",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Vox FM",
+      "url": "http://voxfm.radio.pionier.net.pl:8000/vox.mp3",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Rock Radio",
+      "url": "http://rockradio.radio.pionier.net.pl:8000/rock.mp3",
+      "category": "Rock",
+      "bitrate": 128
+    },
+    {
+      "name": "Jazz Radio",
+      "url": "http://jazzradio.radio.pionier.net.pl:8000/jazz.mp3",
+      "category": "Jazz",
+      "bitrate": 128
+    },
+    {
+      "name": "BBC World Service",
+      "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
+      "category": "News",
+      "bitrate": 128
+    }
+  ]
+}
+////////////////////////////
+
 [
    {
       "name":"Jedynka",
-      "src":"http://mp3.polskieradio.pl:8900/;",
-      "type":"audio/mp3"
+      "url":"http://mp3.polskieradio.pl:8900/;",
+       "category": "News",
    },
    {
       "name":"Dwójka",
-      "src":"http://mp3.polskieradio.pl:8902/;",
-      "type":"audio/mp3"
+      "url":"http://mp3.polskieradio.pl:8902/;",
+       "category": "News",
    },
    {
       "name":"Trójka",
-      "src":"http://mp3.polskieradio.pl:8904/;",
-      "type":"audio/mp3"
+      "url":"http://mp3.polskieradio.pl:8904/;",
+       "category": "News",
    },
    {
       "name":"Czwórka",
-      "src":"http://mp3.polskieradio.pl:8906/;",
-      "type":"audio/mp3"
+      "url":"http://mp3.polskieradio.pl:8906/;",
+       "category": "News",
    },
    {
       "name":"RMF FM",
-      "src":"http://195.150.20.242:8000/rmf_fm",
-      "type":"audio/mp3"
+      "url":"http://195.150.20.242:8000/rmf_fm",
+       "category": "News",
    },
    {
       "name":"Radio Maryja",
-      "src":"http://radio.zamarproductions.com:5946/;",
-      "type":"audio/mp3"
+      "url":"http://radio.zamarproductions.com:5946/;",
+       "category": "News",
    },
    {
       "name":"Radio ZET",
-      "src":"http://zet090-02.cdn.eurozet.pl:8404/;",
-      "type":"audio/mp3"
+      "url":"http://zet090-02.cdn.eurozet.pl:8404/;",
+       "category": "News",
    },
    {
       "name":"Radio Złote Przeboje",
-      "src":"http://poznan7.radio.pionier.net.pl:8000/tuba9-1.mp3",
-      "type":"audio/mp3"
+      "url":"http://poznan7.radio.pionier.net.pl:8000/tuba9-1.mp3",
+      "category": "Muzyka",
    },
    {
       "name":"Złote Przeboje Gdańsk",
-      "src":"http://stream10.radioagora.pl/zp_gda_128.mp3",
-      "type":"audio/mp3"
+     "url":"http://stream10.radioagora.pl/zp_gda_128.mp3",
+      "category": "Muzyka",
    },
    {
       "name":"PR Poznań",
-      "src":"http://stream4.nadaje.com:8578/poznan",
+      "url":"http://stream4.nadaje.com:8578/poznan",
       "type":"audio/mp3"
    },
    {
