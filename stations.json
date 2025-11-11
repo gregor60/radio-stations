@@ -1,31 +1,537 @@
+
 {
-  "version": "1.0", 
-  "last_update": "2024-01-01",
+  "version": "1.2",
+  "generated_by": "AdvancedRadioStationsAnalyzer",
+  "total_stations": 43,
+  "working_stations": 35,
   "stations": [
     {
       "name": "RMF FM",
       "url": "http://31.192.216.5:8000/rmffm",
-      "category": "Polskie stacje"
+      "category": "Other",
+      "country": "USA",
+      "language": null,
+      "sources": [
+        "gregor60"
+      ],
+      "domain": "31.192.216.5:8000",
+      "is_working": false
     },
     {
       "name": "Radio ZET",
-      "url": "http://radiozet-64.radio.pionier.net.pl:8000/pl/radiozet.mp3", 
-      "category": "Polskie stacje"
+      "url": "http://radiozet-64.radio.pionier.net.pl:8000/pl/radiozet.mp3",
+      "category": "Other",
+      "country": null,
+      "language": null,
+      "sources": [
+        "gregor60"
+      ],
+      "domain": "radiozet-64.radio.pionier.net.pl:8000",
+      "is_working": false
     },
     {
       "name": "TOK FM",
       "url": "http://pl-play.adtonos.com/tok-fm",
-      "category": "Polskie stacje"
+      "category": "Other",
+      "country": "USA",
+      "language": null,
+      "sources": [
+        "gregor60"
+      ],
+      "domain": "pl-play.adtonos.com",
+      "is_working": false
     },
     {
       "name": "Radio Italo4you",
       "url": "https://ssl-1.radiohost.pl:8018/stream",
-      "category": "Muzyka"
+      "category": "Other",
+      "country": null,
+      "language": null,
+      "sources": [
+        "gregor60"
+      ],
+      "domain": "ssl-1.radiohost.pl:8018",
+      "is_working": true
     },
     {
       "name": "Eska Rock",
       "url": "http://ic2.101.ru:8000/a202",
-      "category": "Rock"
+      "category": "Rock",
+      "country": null,
+      "language": null,
+      "sources": [
+        "gregor60"
+      ],
+      "domain": "ic2.101.ru:8000",
+      "is_working": false
+    },
+    {
+      "name": "Polskie Radio Bialystok",
+      "url": "http://stream4.nadaje.com:15476/radiobialystok",
+      "category": "Polish",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "stream4.nadaje.com:15476",
+      "is_working": true
+    },
+    {
+      "name": "PR PRZEBOJE PRL",
+      "url": "http://mp3.polskieradio.pl:8066/;",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "mp3.polskieradio.pl:8066",
+      "is_working": false
+    },
+    {
+      "name": "RADIO WIELKOPOLSKA",
+      "url": "http://217.182.76.63:8000/webstream",
+      "category": "Polish",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "217.182.76.63:8000",
+      "is_working": true
+    },
+    {
+      "name": "Radio ZET Chilli",
+      "url": "https://ch.cdn.eurozet.pl/chi-net.mp3",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "ch.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "super nova trzebnica",
+      "url": "http://ic1.smcdn.pl/1510-1.mp3",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "ic1.smcdn.pl",
+      "is_working": true
+    },
+    {
+      "name": ". Abdulbasit Abdulsamad",
+      "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+      "category": "Other",
+      "country": "Poland",
+      "language": "arabic",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "radio.mp3islam.com",
+      "is_working": true
+    },
+    {
+      "name": "13 ESKA 2",
+      "url": "https://radio.stream.smcdn.pl/icradio-p/6230-1.aac/playlist.m3u8",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser",
+        "radio-browser"
+      ],
+      "domain": "radio.stream.smcdn.pl",
+      "is_working": true
+    },
+    {
+      "name": "24Dubstep.pl || CalmFlow",
+      "url": "https://stream.24dubstep.pl/listen/chillstep/mp3_normal",
+      "category": "Polish",
+      "country": "Poland",
+      "language": "pol,eng",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "stream.24dubstep.pl",
+      "is_working": true
+    },
+    {
+      "name": "24Dubstep.pl || DropZone Radio",
+      "url": "https://stream.24dubstep.pl/radio/8000/mp3_normal",
+      "category": "Polish",
+      "country": "Poland",
+      "language": "english,polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "stream.24dubstep.pl",
+      "is_working": true
+    },
+    {
+      "name": "357",
+      "url": "https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx?preroll=0",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "n-11-26.dcs.redcdn.pl",
+      "is_working": false
+    },
+    {
+      "name": "4 Fun TV",
+      "url": "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "stream.4fun.tv:8888",
+      "is_working": true
+    },
+    {
+      "name": "4fun tv",
+      "url": "https://stream.4fun.tv:8888/hls/4f.m3u8",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser",
+        "radio-browser"
+      ],
+      "domain": "stream.4fun.tv:8888",
+      "is_working": true
+    },
+    {
+      "name": "4Music",
+      "url": "https://s1.slotex.pl/shoutcast/7102/stream",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "s1.slotex.pl",
+      "is_working": true
+    },
+    {
+      "name": "Akademickie Radio Centrum UMCS",
+      "url": "http://5.201.13.191/live",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "5.201.13.191",
+      "is_working": false
+    },
+    {
+      "name": "Akademickie Radio LUZ",
+      "url": "http://stream.radioluz.pl:8000/luz_hifi.mp3",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser",
+        "radio-browser",
+        "radio-browser"
+      ],
+      "domain": "stream.radioluz.pl:8000",
+      "is_working": true
+    },
+    {
+      "name": "Akademickie Radio LUZ",
+      "url": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "stream.radioluz.pl:8443",
+      "is_working": true
+    },
+    {
+      "name": "Aniol Beskidów",
+      "url": "http://media.aniolbeskidow.pl:22000/listen.pls?sid=1",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "media.aniolbeskidow.pl:22000",
+      "is_working": true
+    },
+    {
+      "name": "Anty Radio",
+      "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "an.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "Antyradio",
+      "url": "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "n-4-4.dcs.redcdn.pl",
+      "is_working": false
+    },
+    {
+      "name": "Antyradio (Katowice)",
+      "url": "http://an01.cdn.eurozet.pl/ant-kat.mp3",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "an01.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "Antyradio Classic Rock",
+      "url": "https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01",
+      "category": "Rock",
+      "country": "Poland",
+      "language": "english",
+      "sources": [
+        "radio-browser",
+        "radio-browser"
+      ],
+      "domain": "an01.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "Antyradio Covers",
+      "url": "http://an.cdn.eurozet.pl/ANTCOV.mp3",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "an.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "Antyradio Greatest",
+      "url": "https://an02.cdn.eurozet.pl/ANTGRE.mp3",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser",
+        "radio-browser"
+      ],
+      "domain": "an02.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "Antyradio Hard",
+      "url": "https://an01.cdn.eurozet.pl/ANTHAR.mp3",
+      "category": "Rock",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "an01.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "Antyradio Hard",
+      "url": "https://an05.cdn.eurozet.pl/ANTHAR.mp3",
+      "category": "Rock",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser",
+        "radio-browser",
+        "radio-browser"
+      ],
+      "domain": "an05.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "Antyradio Made In Poland",
+      "url": "https://an04.cdn.eurozet.pl/ANTPOL.mp3?t=1668748669557?redirected=04",
+      "category": "Polish",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "an04.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "Antyradio Makak",
+      "url": "http://an.cdn.eurozet.pl/ANTMAK.mp3",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "an.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "Antyradio Unplugged",
+      "url": "https://an05.cdn.eurozet.pl/ANTUNP.mp3",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser",
+        "radio-browser",
+        "radio-browser"
+      ],
+      "domain": "an05.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "Antyradio Warszawa",
+      "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "an.cdn.eurozet.pl",
+      "is_working": true
+    },
+    {
+      "name": "AWANGARDA.FM",
+      "url": "https://stream.zeno.fm/mf9ewmbuaq8uv",
+      "category": "Other",
+      "country": "Poland",
+      "language": "english,french,german,polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "stream.zeno.fm",
+      "is_working": true
+    },
+    {
+      "name": "Bayer FM",
+      "url": "https://streaming.radio5.com.pl:8888/bayerfm",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser",
+        "radio-browser",
+        "radio-browser"
+      ],
+      "domain": "streaming.radio5.com.pl:8888",
+      "is_working": true
+    },
+    {
+      "name": "BEST Radio (128Kbps)",
+      "url": "http://stream.radiobest.eu:8000/128",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "stream.radiobest.eu:8000",
+      "is_working": true
+    },
+    {
+      "name": "BEST Radio (192Kbps)",
+      "url": "http://stream.radiobest.eu:8000/192",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "stream.radiobest.eu:8000",
+      "is_working": true
+    },
+    {
+      "name": "BEST Radio (28Kbps)",
+      "url": "http://stream.radiobest.eu:8000/28",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "stream.radiobest.eu:8000",
+      "is_working": true
+    },
+    {
+      "name": "BEST Radio (64Kbps)",
+      "url": "http://stream.radiobest.eu:8000/64",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "stream.radiobest.eu:8000",
+      "is_working": true
+    },
+    {
+      "name": "BEZPIECZNA PODRÓŻ",
+      "url": "https://ssl-1.radiohost.pl:9162/stream",
+      "category": "Other",
+      "country": "Poland",
+      "language": "polish",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "ssl-1.radiohost.pl:9162",
+      "is_working": true
+    },
+    {
+      "name": "Białoruskie Radio Racja",
+      "url": "http://air.racyja.com:8000/racja320",
+      "category": "Other",
+      "country": "Poland",
+      "language": "belarusian",
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "air.racyja.com:8000",
+      "is_working": true
+    },
+    {
+      "name": "Biblia - Radio Chrzescijanin",
+      "url": "http://radio.chrzescijanin.pl/biblia.m3u",
+      "category": "Other",
+      "country": "Poland",
+      "language": null,
+      "sources": [
+        "radio-browser"
+      ],
+      "domain": "radio.chrzescijanin.pl",
+      "is_working": true
     }
   ]
 }
