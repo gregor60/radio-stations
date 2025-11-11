@@ -1,78 +1,31 @@
 {
-  "version": "1.0",
+  "version": "1.0", 
   "last_update": "2024-01-01",
   "stations": [
     {
       "name": "RMF FM",
       "url": "http://31.192.216.5:8000/rmffm",
-      "category": "Polskie stacje",
-      "bitrate": 128
+      "category": "Polskie stacje"
     },
     {
       "name": "Radio ZET",
-      "url": "http://radiozet-64.radio.pionier.net.pl:8000/pl/radiozet.mp3",
-      "category": "Polskie stacje",
-      "bitrate": 128
+      "url": "http://radiozet-64.radio.pionier.net.pl:8000/pl/radiozet.mp3", 
+      "category": "Polskie stacje"
     },
     {
       "name": "TOK FM",
       "url": "http://pl-play.adtonos.com/tok-fm",
-      "category": "Polskie stacje",
-      "bitrate": 128
-    },
-    {
-      "name": "Polskie Radio",
-      "url": "http://stream3.polskieradio.pl:8904/",
-      "category": "Polskie stacje",
-      "bitrate": 128
-    },
-    {
-      "name": "Eska Rock",
-      "url": "http://ic2.101.ru:8000/a202",
-      "category": "Polskie stacje",
-      "bitrate": 128
+      "category": "Polskie stacje"
     },
     {
       "name": "Radio Italo4you",
       "url": "https://ssl-1.radiohost.pl:8018/stream",
-      "category": "Muzyka",
-      "bitrate": 256
+      "category": "Muzyka"
     },
     {
-      "name": "RMF Classic",
-      "url": "http://31.192.216.5:8000/rmfclassic",
-      "category": "Muzyka",
-      "bitrate": 128
-    },
-    {
-      "name": "Złote Przeboje",
-      "url": "http://zloteprzeboje.stream.rcs.revma.com/1yyhg62ke9quv",
-      "category": "Muzyka",
-      "bitrate": 128
-    },
-    {
-      "name": "Vox FM",
-      "url": "http://voxfm.radio.pionier.net.pl:8000/vox.mp3",
-      "category": "Muzyka",
-      "bitrate": 128
-    },
-    {
-      "name": "Rock Radio",
-      "url": "http://rockradio.radio.pionier.net.pl:8000/rock.mp3",
-      "category": "Rock",
-      "bitrate": 128
-    },
-    {
-      "name": "Jazz Radio",
-      "url": "http://jazzradio.radio.pionier.net.pl:8000/jazz.mp3",
-      "category": "Jazz",
-      "bitrate": 128
-    },
-    {
-      "name": "BBC World Service",
-      "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
-      "category": "News",
-      "bitrate": 128
+      "name": "Eska Rock",
+      "url": "http://ic2.101.ru:8000/a202",
+      "category": "Rock"
     }
   ]
 }
