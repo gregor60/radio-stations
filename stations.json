@@ -2,7 +2,20 @@
   "version": "1.0",
   "last_update": "2024-01-01",
   "stations": [
+   
     {
+      "name": "Złote Przeboje",
+      "url": "http://zloteprzeboje.stream.rcs.revma.com/1yyhg62ke9quv",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Vox FM",
+      "url": "http://voxfm.radio.pionier.net.pl:8000/vox.mp3",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+     {
       "name": "RMF FM",
       "url": "http://31.192.216.5:8000/rmffm",
       "category": "Polskie stacje",
@@ -41,18 +54,6 @@
     {
       "name": "RMF Classic",
       "url": "http://31.192.216.5:8000/rmfclassic",
-      "category": "Muzyka",
-      "bitrate": 128
-    },
-    {
-      "name": "Złote Przeboje",
-      "url": "http://zloteprzeboje.stream.rcs.revma.com/1yyhg62ke9quv",
-      "category": "Muzyka",
-      "bitrate": 128
-    },
-    {
-      "name": "Vox FM",
-      "url": "http://voxfm.radio.pionier.net.pl:8000/vox.mp3",
       "category": "Muzyka",
       "bitrate": 128
     },
