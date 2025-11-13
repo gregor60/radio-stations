@@ -13,7 +13,7 @@
       "url": "http://de1.api.radio-browser.info/json/stations/search?countrycode=PL&limit=50&hidebroken=true&order=votes"
     },
     {
-      "id": 2, 
+      "id": 2,
       "name": "Rock",
       "type": "api",
       "url": "http://de1.api.radio-browser.info/json/stations/search?tag=rock&limit=50&hidebroken=true&order=votes"
@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Jazz",
-      "type": "api", 
+      "type": "api",
       "url": "http://de1.api.radio-browser.info/json/stations/search?tag=jazz&limit=50&hidebroken=true&order=votes"
     },
     {
@@ -51,7 +51,9 @@
     {
       "id": 8,
       "name": "Awaryjne stacje",
-      "type": "emergency"
+      "type": "emergency",
+      "url": ""
     }
   ]
 }
+
