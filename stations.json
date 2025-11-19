@@ -1,0 +1,469 @@
+{
+    "version": "1.0",
+  "last_update": "2024-01-01",
+  "stations": [
+   
+    {
+      "name": "Złote Przeboje",
+      "url": "http://zloteprzeboje.stream.rcs.revma.com/1yyhg62ke9quv",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Vox FM",
+      "url": "http://voxfm.radio.pionier.net.pl:8000/vox.mp3",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+     {
+      "name": "RMF FM",
+      "url": "http://31.192.216.5:8000/rmffm",
+      "category": "Polskie stacje",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio ZET",
+      "url": "http://radiozet-64.radio.pionier.net.pl:8000/pl/radiozet.mp3",
+      "category": "Polskie stacje",
+      "bitrate": 128
+    },
+    {
+      "name": "TOK FM",
+      "url": "http://pl-play.adtonos.com/tok-fm",
+      "category": "Polskie stacje",
+      "bitrate": 128
+    },
+    {
+      "name": "Polskie Radio",
+      "url": "http://stream3.polskieradio.pl:8904/",
+      "category": "Polskie stacje",
+      "bitrate": 128
+    },
+    {
+      "name": "Eska Rock",
+      "url": "http://ic2.101.ru:8000/a202",
+      "category": "Polskie stacje",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Italo4you",
+      "url": "https://ssl-1.radiohost.pl:8018/stream",
+      "category": "Muzyka",
+      "bitrate": 256
+    },
+    {
+      "name": "RMF Classic",
+      "url": "http://31.192.216.5:8000/rmfclassic",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Rock Radio",
+      "url": "http://rockradio.radio.pionier.net.pl:8000/rock.mp3",
+      "category": "Rock",
+      "bitrate": 128
+    },
+    {
+      "name": "Jazz Radio",
+      "url": "http://jazzradio.radio.pionier.net.pl:8000/jazz.mp3",
+      "category": "Jazz",
+      "bitrate": 128
+    },
+    {
+      "name": "BBC World Service",
+      "url": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
+      "category": "News",
+      "bitrate": 128
+    },
+    {
+      "name": "Jedynka",
+      "url": "http://mp3.polskieradio.pl:8900/;",
+      "category": "News",
+      "bitrate": 128
+    },
+    {
+      "name": "Dwójka",
+      "url": "http://mp3.polskieradio.pl:8902/;",
+      "category": "News",
+      "bitrate": 128
+    },
+    {
+      "name": "Trójka",
+      "url": "http://mp3.polskieradio.pl:8904/;",
+      "category": "News",
+      "bitrate": 128
+    },
+    {
+      "name": "Czwórka",
+      "url": "http://mp3.polskieradio.pl:8906/;",
+      "category": "News",
+      "bitrate": 128
+    },
+    {
+      "name": "RMF FM (alternatywny)",
+      "url": "http://195.150.20.242:8000/rmf_fm",
+      "category": "News",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Maryja",
+      "url": "http://radio.zamarproductions.com:5946/;",
+      "category": "News",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio ZET (alternatywny)",
+      "url": "http://zet090-02.cdn.eurozet.pl:8404/;",
+      "category": "News",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Złote Przeboje",
+      "url": "http://poznan7.radio.pionier.net.pl:8000/tuba9-1.mp3",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Złote Przeboje Gdańsk",
+      "url": "http://stream10.radioagora.pl/zp_gda_128.mp3",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "PR Poznań",
+      "url": "http://stream4.nadaje.com:8578/poznan",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "PR Kraków",
+      "url": "http://stream4.nadaje.com:9680/radiokrakow-s3",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "PR Katowice",
+      "url": "http://stream4.nadaje.com:9212/radiokatowice",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "PR Opole",
+      "url": "http://dab.radio.opole.pl:8035/1",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Meloradio FM",
+      "url": "http://mel.cdn.eurozet.pl/mel-ols.mp3",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "PR Zachód",
+      "url": "http://stream02.zachod.pl:10113/;",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Tok FM",
+      "url": "http://poznan5-4.radio.pionier.net.pl:8000/tuba10-1.mp3",
+      "category": "News",
+      "bitrate": 128
+    },
+    {
+      "name": "PR Szczecin",
+      "url": "http://stream4.nadaje.com:11986/prs.aac",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "PR Olsztyn",
+      "url": "http://olsztyn.radio.pionier.net.pl:7055/;",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "PR Białystok",
+      "url": "http://stream4.nadaje.com:15476/radiobialystok",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "PR Koszalin",
+      "url": "http://s0.radiohost.pl:9680/;",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "PR Pomorza i Kujaw",
+      "url": "http://stream.radiopik.pl:9004/;",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "PR Słupsk",
+      "url": "http://s0.radiohost.pl:8240/;",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Białoruskie Radio Racja",
+      "url": "http://air.racyja.com:8000/racja256",
+      "category": "Zagraniczne",
+      "bitrate": 256
+    },
+    {
+      "name": "RMF Classic (alternatywny)",
+      "url": "http://rmfstream1.interia.pl:8000/rmf_classic",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Antyradio FM",
+      "url": "http://ant-kat-01.cdn.eurozet.pl:8604/;",
+      "category": "Rock",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Plus Gdańsk",
+      "url": "http://plu-gdn-02.cdn.eurozet.pl:8304/;",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "VOX FM",
+      "url": "http://85.219.133.18/radio.php?id=-1&url=http://www.eskago.pl/radio/vox-fm",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Rodzina",
+      "url": "http://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Muzyczne Radio",
+      "url": "http://stream.nadaje.com:9900/;",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio RDN",
+      "url": "http://rdn.pl:8002/;",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Plus Legnica",
+      "url": "http://stream.plus.legnica.pl:8000/plusaacp",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio eM",
+      "url": "http://91.200.187.58/;",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Pogoda",
+      "url": "http://stream13.radioagora.pl/tuba38-1.mp3",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "KRP Katolickie Radio Podlasie",
+      "url": "http://s1.slotex.pl:7038/;",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Victoria",
+      "url": "https://stream.v4.radiovictoria.pl:8076/;?type=http&nocache=4494",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Muzo FM",
+      "url": "http://stream4.nadaje.com/muzo",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Rock Radio (alternatywny)",
+      "url": "http://stream13.radioagora.pl/tuba9004-1.mp3",
+      "category": "Rock",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Doxa",
+      "url": "http://81.210.92.213:8000/;",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Weekend",
+      "url": "http://stream.weekendfm.pl:8000/weekendfm_najlepsza.aac",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "VIA - Katolickie Radio Rzeszów",
+      "url": "http://62.133.128.18:8040/;",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Elka",
+      "url": "http://live.elka.pl:8000/elkamp3",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Nadzieja",
+      "url": "http://streaming01.technologicznie.net:8000/;",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Fiat",
+      "url": "http://stream2.nadaje.com:8056/;",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio CCM",
+      "url": "http://primary.moodyradiostream.org/radioccm",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Emaus",
+      "url": "http://stream.radioemaus.pl:8000/mp3stream",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Fara",
+      "url": "http://62.133.128.22:8000/;",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Plus Gniezno",
+      "url": "http://plu02.cdn.eurozet.pl:8308/plu-gnz.fb.mp3",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Plus Radom",
+      "url": "http://78.46.170.230:8040/;",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Plus Warszawa",
+      "url": "http://plu02.cdn.eurozet.pl:8318/plu-waw.mp3",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Leliwa",
+      "url": "http://stream2.nadaje.com:8054/;",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Chillzet FM",
+      "url": "http://chi-net.cdn.eurozet.pl:8900/;",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Fama Kielce",
+      "url": "http://stream2.nadaje.com:8076/",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Niepokalanów",
+      "url": "http://88.199.169.10:8000/;",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Parada",
+      "url": "http://stream4.nadaje.com:15274/live",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Wasze Radio FM",
+      "url": "http://stream1.waszeradiofm.pl:8000/stream",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Głos",
+      "url": "http://87.204.92.180:8000/;",
+      "category": "Religijne",
+      "bitrate": 128
+    },
+    {
+      "name": "Krdp FM",
+      "url": "http://s1.slotex.pl:7762/;",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio 90 FM",
+      "url": "http://streams.radio90.pl:8000/radio90_128kbps_stereo.mp3",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Bielsko",
+      "url": "http://stream.nadaje.com:8044/",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Eska",
+      "url": "http://waw02-03.ic.smcdn.pl:8000/t043-1.mp3",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "RMF MAXXX",
+      "url": "http://195.150.20.242:8000/rmf_maxxx",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "ESKA Trójmiasto",
+      "url": "http://waw02-03.ic.smcdn.pl:8000/t048-1.mp3",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Kaszebe",
+      "url": "http://stream3.nadaje.com:8048/;",
+      "category": "Regionalne",
+      "bitrate": 128
+    },
+    {
+      "name": "Dark Radio",
+      "url": "http://dark.sh/mp3",
+      "category": "Muzyka",
+      "bitrate": 128
+    },
+    {
+      "name": "Radio Nowy Świat",
+      "url": "http://stream.rcs.revma.com/ypqt40u0x1zuv",
+      "category": "News",
+      "bitrate": 128
+    }
+  ]
+}
