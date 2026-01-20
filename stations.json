@@ -1,4 +1,28 @@
-[
+
+
+
+   [
+  {
+    "name": "Radio 357",
+    "url": "http://stream.rcs.revma.com/ye5kghkgcm0uv",
+    "favicon": ""
+  },
+  {
+    "name": "Radio ZET",
+    "url": "http://zt01.cdn.eurozet.pl/zet-net.mp3",
+    "favicon": ""
+  },
+  {
+    "name": "RMF FM",
+    "url": "http://rmfstream1.interia.pl:8000/rmf_fm",
+    "favicon": ""
+  },
+  {
+    "name": "Antyradio",
+    "url": "http://an02.cdn.eurozet.pl:8602/",
+    "favicon": ""
+  }
+]
    {
       "name":"Jedynka",
       "src":"http://mp3.polskieradio.pl:8900/;",
