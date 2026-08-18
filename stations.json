@@ -21,7 +21,7 @@
    },
    {
       "name":"RMF FM",
-      "src":"http://195.150.20.242:8000/rmf_fm",
+      "src":"https://rs102-krk.rmfstream.pl/rmf_fm",
       "type":"audio/mp3"
    },
    {
