@@ -1,14 +1,12 @@
 
 Playlist=Polskie stacje
 
-Radio Gra		 ; https://rs103-krk-cyfronet.rmfstream.pl/radio_gra
-Radio Torun	         ; https://ssl-1.radiohost.pl:11512/stream 
-RMF FM			 ; https://rs102-krk.rmfstream.pl/rmf_fm
-Radio Pik		 ; http://stream1.radiopik.pl:9004/;
-Radio Zet		 ; https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
-PR Jedynka		 ; http://mp3.polskieradio.pl:8900/;
-PR Dwójka		 ; http://mp3.polskieradio.pl:8902/;
-PR Trójka		 ; http://mp3.polskieradio.pl:8904/;
+RMF FM ; https://rs102-krk.rmfstream.pl/rmf_fm ; https://raw.githubusercontent.com/gregor60/radio-stations/main/logos/rmf.png
+Radio Zet ; https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx ; https://raw.githubusercontent.com/gregor60/radio-stations/main/logos/zet.png
+Radio Pogoda ; https://radiostream.pl/tuba140-1.aac ; 
+ESKA ; https://ic1.smcdn.pl/2380-1.aac ; https://raw.githubusercontent.com/gregor60/radio-stations/main/logos/eska.png
+Antyradio ; https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx ; 
+
 PR Czwórka		 ; http://stream3.polskieradio.pl:8906/;
 Radio 357		 ; https://stream.rcs.revma.com/ye5kghkgcm0uv
 Radio PRL	         ; http://195.150.20.8/PRL
