@@ -1,8 +1,8 @@
 
 Playlist=Polskie stacje
 
-RMF FM ; https://rs102-krk.rmfstream.pl/rmf_fm ; https://raw.githubusercontent.com/gregor60/radio-stations/main/logos/rmf.png
-Radio Zet ; https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx ; https://raw.githubusercontent.com/gregor60/radio-stations/main/logos/zet.png
+http://195.150.20.242:8000/rmf_fm
+http://zet-net-01.cdn.eurozet.pl:8400/
 Radio Pogoda ; https://radiostream.pl/tuba140-1.aac ; 
 ESKA ; https://ic1.smcdn.pl/2380-1.aac ; https://raw.githubusercontent.com/gregor60/radio-stations/main/logos/eska.png
 Antyradio ; https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx ; 
