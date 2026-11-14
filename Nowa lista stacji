@@ -13,7 +13,7 @@ Mirage Italo Dance; http://s0.radiohost.pl:9569/;
 Mirage Space; https://ssl-1.radiohost.pl:9563/stream?ver=987766
 
 Playlist=Polskie stacje
-ESKA; https://ic1.smcdn.pl/2380-1.aac 
+ESKA; https://ic1.smcdn.pl/2380-1.aac; https://example.com/logos/eska.png
 ESKA 2; https://ic1.smcdn.pl/1380-1.aac
 ESKA 2 Polskie Na Czasie; https://ic1.smcdn.pl/6230-1.aac
 ESKA 2 Gorąca Polska 20; https://ic1.smcdn.pl/6110-1.aac
